@@ -1,4 +1,4 @@
-package org.github.swsz2.configuration;
+package org.github.swsz2.commons.configuration;
 
 import com.github.benmanes.caffeine.cache.Caffeine;
 import org.github.swsz2.commons.contants.Caches;
